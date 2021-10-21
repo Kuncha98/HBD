@@ -1,0 +1,8 @@
+using System;
+class Birthday
+    {
+        public static void Main(string[] args)
+    {
+        Console.WriteLine("Happy Birthday");
+    }
+}
